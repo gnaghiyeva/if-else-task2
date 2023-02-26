@@ -1,0 +1,15 @@
+C:\Users\Gulnar\Desktop\Personal\Code Academy\C#\home\Task2-C#\if-else-task2\if-else-task2\bin\Debug\net6.0\if-else-task2.exe
+C:\Users\Gulnar\Desktop\Personal\Code Academy\C#\home\Task2-C#\if-else-task2\if-else-task2\bin\Debug\net6.0\if-else-task2.deps.json
+C:\Users\Gulnar\Desktop\Personal\Code Academy\C#\home\Task2-C#\if-else-task2\if-else-task2\bin\Debug\net6.0\if-else-task2.runtimeconfig.json
+C:\Users\Gulnar\Desktop\Personal\Code Academy\C#\home\Task2-C#\if-else-task2\if-else-task2\bin\Debug\net6.0\if-else-task2.dll
+C:\Users\Gulnar\Desktop\Personal\Code Academy\C#\home\Task2-C#\if-else-task2\if-else-task2\bin\Debug\net6.0\if-else-task2.pdb
+C:\Users\Gulnar\Desktop\Personal\Code Academy\C#\home\Task2-C#\if-else-task2\if-else-task2\obj\Debug\net6.0\if-else-task2.csproj.AssemblyReference.cache
+C:\Users\Gulnar\Desktop\Personal\Code Academy\C#\home\Task2-C#\if-else-task2\if-else-task2\obj\Debug\net6.0\if-else-task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gulnar\Desktop\Personal\Code Academy\C#\home\Task2-C#\if-else-task2\if-else-task2\obj\Debug\net6.0\if-else-task2.AssemblyInfoInputs.cache
+C:\Users\Gulnar\Desktop\Personal\Code Academy\C#\home\Task2-C#\if-else-task2\if-else-task2\obj\Debug\net6.0\if-else-task2.AssemblyInfo.cs
+C:\Users\Gulnar\Desktop\Personal\Code Academy\C#\home\Task2-C#\if-else-task2\if-else-task2\obj\Debug\net6.0\if-else-task2.csproj.CoreCompileInputs.cache
+C:\Users\Gulnar\Desktop\Personal\Code Academy\C#\home\Task2-C#\if-else-task2\if-else-task2\obj\Debug\net6.0\if-else-task2.dll
+C:\Users\Gulnar\Desktop\Personal\Code Academy\C#\home\Task2-C#\if-else-task2\if-else-task2\obj\Debug\net6.0\refint\if-else-task2.dll
+C:\Users\Gulnar\Desktop\Personal\Code Academy\C#\home\Task2-C#\if-else-task2\if-else-task2\obj\Debug\net6.0\if-else-task2.pdb
+C:\Users\Gulnar\Desktop\Personal\Code Academy\C#\home\Task2-C#\if-else-task2\if-else-task2\obj\Debug\net6.0\if-else-task2.genruntimeconfig.cache
+C:\Users\Gulnar\Desktop\Personal\Code Academy\C#\home\Task2-C#\if-else-task2\if-else-task2\obj\Debug\net6.0\ref\if-else-task2.dll
